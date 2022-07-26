@@ -14,14 +14,12 @@ Must install koios-python (https://github.com/cardano-community/koios-python)
 # 4. run script
         # ./handlecheck.py
 
-##
-To Do:
+## To Do:
 
-address single, double, triple digit numbers as 4 digit 
-
+[] address single, double, triple digit numbers as 4 digit 
 (example: 23 == 0023 || 123 == 0123)
 
-##
+#####
 If you found this simple script useful, please consider a small ADA donation to:
 
 $phrankerco
