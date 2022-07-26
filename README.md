@@ -16,10 +16,9 @@ Must install koios-python (https://github.com/cardano-community/koios-python)
 
 ## To Do:
 
-[] address single, double, triple digit numbers as 4 digit 
+[ ] address single, double, triple digit numbers as 4 digit 
 (example: 23 == 0023 || 123 == 0123)
 
-##### If you found this simple script useful, please consider a small ADA donation to:
-$phrankerco
--or-
-addr1q9k2aqqyyru0y3p6d2h7ggdw7f99v5tsf5teuk8dcqrge4vjp62n3v953kqykl8zgh5ctamrwvu2380z4ndh6zch4l3s2jvf2v
+###### If you found this simple script useful, please consider a small ADA donation to:
+###### $phrankerco
+###### addr1q9k2aqqyyru0y3p6d2h7ggdw7f99v5tsf5teuk8dcqrge4vjp62n3v953kqykl8zgh5ctamrwvu2380z4ndh6zch4l3s2jvf2v
