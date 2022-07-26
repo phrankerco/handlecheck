@@ -1,12 +1,9 @@
 # handlecheck
-#!/usr/bin/python3
 
-##
-## handlecheck.py
-##
+Uses https://api.koios.rest/#get-/asset_address_list
 
-# Uses https://api.koios.rest/#get-/asset_address_list
-# Must install koios-python (https://github.com/cardano-community/koios-python)
+Must install koios-python (https://github.com/cardano-community/koios-python)
+
 # Steps to install and use:
 # 1. install koios-python wrapper
         # pip3 install koios-python
