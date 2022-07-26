@@ -6,13 +6,13 @@ Must install koios-python (https://github.com/cardano-community/koios-python)
 
 # Steps to install and use:
 # 1. install koios-python wrapper
-        # pip3 install koios-python
+        pip3 install koios-python
 # 2. paste and save script
-        # nano handlecheck.py
+        nano handlecheck.py
 # 3. make script executable
-        # chmod +x handlecheck.py
+        chmod +x handlecheck.py
 # 4. run script
-        # ./handlecheck.py
+        ./handlecheck.py
 
 ## To Do:
 
